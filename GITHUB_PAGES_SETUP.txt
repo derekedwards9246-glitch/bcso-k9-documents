@@ -1,0 +1,11 @@
+BCSO K9 Document Center — GitHub Pages
+
+1. Create a PUBLIC GitHub repository named bcso-k9-documents.
+2. In its Code tab choose Add file > Upload files.
+3. Extract this ZIP and upload all files inside this folder (index.html, assets folder contents, PDF, .nojekyll) to the ROOT of the repository.
+4. Settings > Pages > Source: Deploy from a branch > main > /(root) > Save.
+5. Visit https://YOUR-USERNAME.github.io/bcso-k9-documents/
+
+IMPORTANT: GitHub Pages is public. The included PDF is explicitly a COMMAND REVIEW DRAFT, not approved policy. Do not publish confidential, personal, disciplinary, or member-only records. Remove the PDF from the project if it is not cleared for public release.
+
+To edit the library, find the DOCUMENTS array in index.html. Replace sample entries and empty URLs with public PDF links or file paths. Links pointing to files included in the repository work as relative paths.
